@@ -1,13 +1,4 @@
 # my_graduation_thesis
-卷 LENOVO 的文件夹 PATH 列表
-卷序列号为 9061-A04A
-D:.
-│  数值型数据分析代码.ipynb
-│  数据预处理代码.ipynb
-│  文本数据分析与挖掘代码.ipynb
-│  爬虫代码.ipynb
-│  第二章中的SVD分解代码.ipynb
-│  
 └─data
     │  big_neg.txt
     │  big_pos.txt
