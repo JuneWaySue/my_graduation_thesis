@@ -1,0 +1,923 @@
+{
+    "data": {
+        "averageScore": 5.0,
+        "badCount": 700,
+        "badRate": "0.01",
+        "comments": [
+            {
+                "canReply": "0",
+                "commentId": 69335660716776,
+                "commentLevel": "好评",
+                "content": "快递不给力，只送到镇里我们还要自己去拿",
+                "creationTime": "2019-05-12 11:54:21+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102502",
+                "skuName": "HUAWEI P30 Pro 8GB+128GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "鱼***"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335646772559,
+                "commentLevel": "好评",
+                "content": "拍照技术果然棒棒的，华为手机不错的选择！",
+                "creationTime": "2019-05-12 11:54:07+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335646773560,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0304/260086000252073304/1080/5678f579d259fe9255a71c73.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0304/260086000252073304/100/5678f579d259fe9255a71c73.jpg"
+                    },
+                    {
+                        "id": 69335646773561,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0304/260086000252073304/1080/b987a1f932c4055b6ac48d55.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0304/260086000252073304/100/b987a1f932c4055b6ac48d55.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "亲爱的客官，您的选择当然错不了，感谢支持哦！",
+                        "replyId": 69342773706673,
+                        "replyTime": "2019-05-12 13:52:54+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102503",
+                "skuName": "HUAWEI P30 Pro 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "祎***迪"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335557727010,
+                "commentLevel": "好评",
+                "content": "宝贝收到了!太漂亮了！",
+                "creationTime": "2019-05-12 11:52:38+0800",
+                "gradeCode": 1,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0585/17ddbdbff817951369e80527.jpg",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335558003011,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0585/390086000105569585/1080/3916eb8ef4e26772e62690e7.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0585/390086000105569585/100/3916eb8ef4e26772e62690e7.jpg"
+                    },
+                    {
+                        "id": 69335558004012,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0585/390086000105569585/1080/42c45ffa036e1f2080c59864.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0585/390086000105569585/100/42c45ffa036e1f2080c59864.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "我在你眼中是最美，每一个瞬间都让你沉醉~",
+                        "replyId": 69342796015674,
+                        "replyTime": "2019-05-12 13:53:16+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102602",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+128GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "朂***想"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335404637551,
+                "commentLevel": "好评",
+                "content": "手机收到了，很好看很流畅",
+                "creationTime": "2019-05-12 11:50:05+0800",
+                "gradeCode": 0,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335404638552,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0759/70086000166267759/1080/76c8c8548b4085888463f16e.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0759/70086000166267759/100/76c8c8548b4085888463f16e.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "俗话说，天下武功，唯快不破，我怎么能因系统不流畅这种小事让我的小主比别人出招慢一步呢~o(*￣︶￣*)o",
+                        "replyId": 69342848300675,
+                        "replyTime": "2019-05-12 13:54:08+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "珠光贝母,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102610",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+256GB 全网通版（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "缪***尔"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335287697999,
+                "commentLevel": "好评",
+                "content": "挺好，买来送客户，客户很满意！！！！！！！！！！晒单好礼快来！！！！！",
+                "creationTime": "2019-05-12 11:48:08+0800",
+                "gradeCode": 2,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335287697001,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0520/80086000137581520/1080/c0bff395f848848a5fa7ba5d.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0520/80086000137581520/100/c0bff395f848848a5fa7ba5d.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 4,
+                "likes": 1,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "赤茶橘,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102604",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+128GB 全网通版（赤茶橘）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "h***3"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335145660625,
+                "commentLevel": "好评",
+                "content": "第一次购买2K以上的手机，也是第一次使用华为手机，华为手机进步很大，让我忘却了苹果，赞！！！",
+                "creationTime": "2019-05-12 11:45:46+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335145661626,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0705/260086000252547705/1080/7f7ace7d70bbfdefc0fbace7.png",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0705/260086000252547705/100/7f7ace7d70bbfdefc0fbace7.png"
+                    },
+                    {
+                        "id": 69335145661627,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0705/260086000252547705/1080/e4d6c92f4cb16eeeb6e59423.png",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0705/260086000252547705/100/e4d6c92f4cb16eeeb6e59423.png"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 1,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 3,
+                        "parentId": 0,
+                        "replyContent": "卿虽寥寥数语，却温暖入我心怀。愿深陷温柔乡，长醉不复醒。",
+                        "replyId": 69354308776181,
+                        "replyTime": "2019-05-12 17:05:09+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "",
+                "skuCode": "2601010102604",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+128GB 全网通版（赤茶橘）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "137****9597"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335136624624,
+                "commentLevel": "好评",
+                "content": "不错",
+                "creationTime": "2019-05-12 11:45:37+0800",
+                "gradeCode": 4,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0356/83ecf34a58cc7ea652f1dc37.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "您的选择错不了，喜欢这种东西，就算捂住嘴巴，也会从眼睛里跑出来哦。",
+                        "replyId": 69435836389986,
+                        "replyTime": "2019-05-13 15:43:56+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102601",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+128GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "枫***叶"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335080740622,
+                "commentLevel": "好评",
+                "content": "好用，家用也要换华为手机。",
+                "creationTime": "2019-05-12 11:44:41+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "喜欢华为，就好像谈了一场永不分手的恋爱，相信这就是小主现在的心情吧！希望华为能与您红尘作伴，活得潇潇洒洒~",
+                        "replyId": 69436079214989,
+                        "replyTime": "2019-05-13 15:47:59+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "",
+                "skuCode": "2601010102506",
+                "skuName": "HUAWEI P30 Pro 8GB+256GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "r***1"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69335025891755,
+                "commentLevel": "好评",
+                "content": "很好，很喜欢一直既往的，好，华为真的好强大",
+                "creationTime": "2019-05-12 11:43:46+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0978/9950afcbf1e288d15c407d65.jpg",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69335026308757,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0978/260086000252474978/1080/a78c4ac819f28035c47dae79.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0978/260086000252474978/100/a78c4ac819f28035c47dae79.jpg"
+                    },
+                    {
+                        "id": 69335026308758,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0978/260086000252474978/1080/a33d4fb163bb1267bac814cb.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0978/260086000252474978/100/a33d4fb163bb1267bac814cb.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "亲，好看又好用的手机我想每个人见了都会喜欢哒~",
+                        "replyId": 69343159937677,
+                        "replyTime": "2019-05-12 13:59:20+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102502",
+                "skuName": "HUAWEI P30 Pro 8GB+128GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "j***l"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334984100982,
+                "commentLevel": "好评",
+                "content": "一人一台，不错(*๓´╰╯`๓)♡",
+                "creationTime": "2019-05-12 11:43:04+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69334984100983,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0855/80086000020852855/1080/526ef32b7b6fa77b685cd400.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0855/80086000020852855/100/526ef32b7b6fa77b685cd400.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086970558808,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "赤茶橘,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102704",
+                "skuName": "【100元订金】HUAWEI P30 Pro 8GB+128GB 全网通版（赤茶橘）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "唐***瑶"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334924315539,
+                "commentLevel": "好评",
+                "content": "手机收到了 非常棒 物流太快了 一天就到 手机体检没得说 不得不说华为强大呀  大赞",
+                "creationTime": "2019-05-12 11:42:04+0800",
+                "gradeCode": 0,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69334924315540,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0166/260086000252373166/1080/51b6572e1f0bc0bcd2859b96.JPG",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0166/260086000252373166/100/51b6572e1f0bc0bcd2859b96.JPG"
+                    },
+                    {
+                        "id": 69334924315541,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0166/260086000252373166/1080/ba277f2cc4b4b25dc6692d66.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0166/260086000252373166/100/ba277f2cc4b4b25dc6692d66.jpg"
+                    }
+                ],
+                "isAnonymous": 0,
+                "isShow": 1,
+                "isTop": 1,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 1,
+                        "parentId": 0,
+                        "replyContent": "您知道快递小哥到底有多么神奇吗？没有人能叫醒一个装睡的人，然而快递小哥能",
+                        "replyId": 69340418643609,
+                        "replyTime": "2019-05-12 13:13:39+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102502",
+                "skuName": "HUAWEI P30 Pro 8GB+128GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "136****6704"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334744811609,
+                "commentLevel": "好评",
+                "content": "赞美，一早就送来了，迫不及待拆了母亲节的礼物，可惜没抢到母亲节的券，好开心，一直赞美和欣赏华为，会持续等待新品",
+                "creationTime": "2019-05-12 11:39:05+0800",
+                "gradeCode": 0,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0744/bbd896c4982b0952965f444a.jpg",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69334745045610,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/1080/a224e81ae5e4bb709ae5e95c.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/100/a224e81ae5e4bb709ae5e95c.jpg"
+                    },
+                    {
+                        "id": 69334745045611,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/1080/dcb3cb39c43e5da20d8d9227.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/100/dcb3cb39c43e5da20d8d9227.jpg"
+                    },
+                    {
+                        "id": 69334745045612,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/1080/8933bad417aa8593ac332711.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0744/80086000153464744/100/8933bad417aa8593ac332711.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 4,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102607",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+256GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "妞***7"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334619400969,
+                "commentLevel": "好评",
+                "content": "期盼的手机终于到了，支持华为",
+                "creationTime": "2019-05-12 11:36:59+0800",
+                "gradeCode": 0,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0370/9c7376d416d9fbe09ddc66ee.jpg",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69334619630970,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0370/420086000103041370/1080/6b6163440c9719957e62959f.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0370/420086000103041370/100/6b6163440c9719957e62959f.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102601",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+128GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "飞***隼"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334603012968,
+                "commentLevel": "好评",
+                "content": "帮朋友买的，他说去旅游，买个好点的手机，就看上了这个！",
+                "creationTime": "2019-05-12 11:36:43+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "酒逢知己千杯少，华为手机少不了，性能卓越没得挑，朋友收到乐逍遥。",
+                        "replyId": 69436120762991,
+                        "replyTime": "2019-05-13 15:48:41+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "",
+                "skuCode": "2601010102510",
+                "skuName": "HUAWEI P30 Pro 8GB+256GB 全网通版（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "王***彩"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334581160525,
+                "commentLevel": "好评",
+                "content": "帮朋友买的，他说去旅游，买个好点的手机，就看上了这个！",
+                "creationTime": "2019-05-12 11:36:21+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "厉害了我的客官~能为朋友带去如此玉树临风、才华洋溢的宝贝，给您点赞。",
+                        "replyId": 69343236979679,
+                        "replyTime": "2019-05-12 14:00:37+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "",
+                "skuCode": "2601010102610",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+256GB 全网通版（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "王***彩"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334532787599,
+                "commentLevel": "好评",
+                "content": "刚刚拿到还没来得及试",
+                "creationTime": "2019-05-12 11:35:33+0800",
+                "gradeCode": 0,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 69334532788600,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0636/560086000101155636/1080/4e000093923f64b4775126c3.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0636/560086000101155636/100/4e000093923f64b4775126c3.jpg"
+                    },
+                    {
+                        "id": 69334532788601,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0636/560086000101155636/1080/689987362816cc617968c179.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0636/560086000101155636/100/689987362816cc617968c179.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "13536*****"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334483734523,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-05-12 11:34:44+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0051/67fe861d6ad21f642317abee.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086501288078,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102501",
+                "skuName": "HUAWEI P30 Pro 8GB+128GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "13606*****"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334351244958,
+                "commentLevel": "好评",
+                "content": "终于等到我的赤茶橘了，真的好棒",
+                "creationTime": "2019-05-12 11:32:31+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "您的选择错不了，喜欢这种东西，就算捂住嘴巴，也会从眼睛里跑出来哦。",
+                        "replyId": 69436188034993,
+                        "replyTime": "2019-05-13 15:49:48+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "赤茶橘,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102609",
+                "skuName": "【老用户专享】HUAWEI P30 Pro 8GB+256GB 全网通版（赤茶橘）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "毛***毛"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334159847954,
+                "commentLevel": "好评",
+                "content": "颜值高！速度快！拍照好！",
+                "creationTime": "2019-05-12 11:29:20+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0692/2603ce7add4d84070d98bc35.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086198945779,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "颜值爆表，但不是花瓶。人家可是真正的实力派呢！不信您就试一试哦~",
+                        "replyId": 69343249846680,
+                        "replyTime": "2019-05-12 14:00:50+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102806",
+                "skuName": "【老用户专享 100元订金】HUAWEI P30 Pro 8GB+256GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "J***i"
+            },
+            {
+                "canReply": "0",
+                "commentId": 69334139686726,
+                "commentLevel": "好评",
+                "content": "手机有点卡，而且还老是自动关机不知道是怎么回事",
+                "creationTime": "2019-05-12 11:29:00+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086198945779,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102806",
+                "skuName": "【老用户专享 100元订金】HUAWEI P30 Pro 8GB+256GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "1***5"
+            }
+        ],
+        "count": 112558,
+        "defaultGoodCount": 29254,
+        "goodCount": 111421,
+        "goodRate": "0.99",
+        "hasImageCount": 22222,
+        "hide": 0,
+        "hotTags": [],
+        "loginCount": 0,
+        "loginImageCount": 0,
+        "loginTopCount": 0,
+        "normalCount": 437,
+        "normalRate": "0.0",
+        "page": {
+            "firstRow": 48200,
+            "pageNum": 2411,
+            "pageSize": 20,
+            "totalPage": 4166,
+            "totalRow": 83304,
+            "version": 0
+        },
+        "pid": 10086102942203,
+        "pids": [
+            10086102942203,
+            10086576121185,
+            10086036045937,
+            10086092865372,
+            10086567879532,
+            10086570832735,
+            10086303797167,
+            10086198945779,
+            10086490067095,
+            10086440129759,
+            10086442456543,
+            10086921421590,
+            10086777387906,
+            10086204790435,
+            10086450832279,
+            10086113196785,
+            10086321031701,
+            10086336387965,
+            10086809756853,
+            10086314958628,
+            10086447575491,
+            10086501288078,
+            10086490521968,
+            10086025336801,
+            10086970558808,
+            10086091766908
+        ],
+        "score1Count": 700,
+        "score2Count": 145,
+        "score3Count": 292,
+        "score4Count": 532,
+        "score5Count": 81635,
+        "systemTagList": [
+            {
+                "count": 88,
+                "tagId": 10000001,
+                "tagName": "外观不错"
+            },
+            {
+                "count": 84,
+                "tagId": 10050001,
+                "tagName": "拍照不错"
+            },
+            {
+                "count": 80,
+                "tagId": 10080001,
+                "tagName": "物流不错"
+            },
+            {
+                "count": 51,
+                "tagId": 10070001,
+                "tagName": "电池不错"
+            },
+            {
+                "count": 49,
+                "tagId": 10040001,
+                "tagName": "手感好"
+            },
+            {
+                "count": 26,
+                "tagId": 10110001,
+                "tagName": "活动给力"
+            },
+            {
+                "count": 22,
+                "tagId": 10030001,
+                "tagName": "性价比高"
+            },
+            {
+                "count": 15,
+                "tagId": 10010001,
+                "tagName": "屏幕不错"
+            },
+            {
+                "count": 9,
+                "tagId": 10020001,
+                "tagName": "内存很好"
+            },
+            {
+                "count": 7,
+                "tagId": 10090001,
+                "tagName": "服务好"
+            },
+            {
+                "count": 6,
+                "tagId": 10150001,
+                "tagName": "音质很好"
+            },
+            {
+                "count": 4,
+                "tagId": 10130001,
+                "tagName": "指纹识别不错"
+            },
+            {
+                "count": 4,
+                "tagId": 10120001,
+                "tagName": "信号不错"
+            }
+        ],
+        "topCount": 9332
+    },
+    "info": "成功",
+    "resultCode": "0"
+}
