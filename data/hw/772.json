@@ -1,0 +1,930 @@
+{
+    "data": {
+        "averageScore": 5.0,
+        "badCount": 700,
+        "badRate": "0.01",
+        "comments": [
+            {
+                "canReply": "0",
+                "commentId": 76161416972623,
+                "commentLevel": "好评",
+                "content": "一直都是用的苹果的，初次接触华为直接被它的美貌和系统流畅震惊了，曲面屏的手感一级棒",
+                "creationTime": "2019-07-30 11:56:57+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76161416972624,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/1080/abb188a420bd9cfb1afe2ffa.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/100/abb188a420bd9cfb1afe2ffa.jpg"
+                    },
+                    {
+                        "id": 76161416972625,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/1080/4d2f6d330b13efd39bb4ee96.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/100/4d2f6d330b13efd39bb4ee96.jpg"
+                    },
+                    {
+                        "id": 76161416972626,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/1080/f99173b62d2c3ccdb86dc06a.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0536/0765ca15039ed34da9b7cc9122015a97/100/f99173b62d2c3ccdb86dc06a.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 4,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "150****1618"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76159934526677,
+                "commentLevel": "好评",
+                "content": "拍照效果杠杠的！还要好好学习一下摄影技术哦😊",
+                "creationTime": "2019-07-30 11:32:15+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76159934527678,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/479c803d85fe63a723ce67b8.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/479c803d85fe63a723ce67b8.jpg"
+                    },
+                    {
+                        "id": 76159934527679,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/58e7876c777e19818b442449.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/58e7876c777e19818b442449.jpg"
+                    },
+                    {
+                        "id": 76159934527680,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/3f9d6493586387f5c4cf8a2f.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/3f9d6493586387f5c4cf8a2f.jpg"
+                    },
+                    {
+                        "id": 76159934527681,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/a239ebbb26c1fd111bdf758f.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/a239ebbb26c1fd111bdf758f.jpg"
+                    },
+                    {
+                        "id": 76159934527682,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/b002d6ee37179637856199f4.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/b002d6ee37179637856199f4.jpg"
+                    },
+                    {
+                        "id": 76159934527683,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/1080/74882e5966ea6691c7b82bbb.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0174/017f7d95a9f9a7cb744a0598c1a8fb0e/100/74882e5966ea6691c7b82bbb.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 2,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 1,
+                        "parentId": 0,
+                        "replyContent": "我很喜欢你，明明已经百无禁忌，偏偏你是一百零一，在我心底你有最独特的意义。",
+                        "replyId": 76171928963972,
+                        "replyTime": "2019-07-30 14:52:09+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "蓝***"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76159435729504,
+                "commentLevel": "好评",
+                "content": "自己用的是Mate20pro，这个是给老婆的生日礼物",
+                "creationTime": "2019-07-30 11:23:56+0800",
+                "gradeCode": 4,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0731/366f9d4441d792d86718e48b.jpg",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76159436101505,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0731/4f5fe78c5da118748145d8db0985ff29/1080/312030137a16617113add521.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0731/4f5fe78c5da118748145d8db0985ff29/100/312030137a16617113add521.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 2,
+                        "parentId": 0,
+                        "replyContent": "怎样才能让我老公无意间看到这条评论呢，这么好的手机妹纸我也好想要一部~/(ㄒoㄒ)/~~",
+                        "replyId": 76171949741975,
+                        "replyTime": "2019-07-30 14:52:30+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "s*****"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76158557955496,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-07-30 11:09:18+0800",
+                "gradeCode": 4,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "蝎*"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76157291463418,
+                "commentLevel": "好评",
+                "content": "很好看的手机，质感好好！摄像头绝对是亮点，再远也是眼前，曲面屏犹如浮出的画面，美！处理器处理很快，让我回不去千元机了，有对比伤害大大的！",
+                "creationTime": "2019-07-30 10:48:11+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76157291464419,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0076/2609c0362890014d7dbf94099e3045d8/1080/456f72e58bcc38b6602e64ab.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0076/2609c0362890014d7dbf94099e3045d8/100/456f72e58bcc38b6602e64ab.jpg"
+                    },
+                    {
+                        "id": 76157291464420,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0076/2609c0362890014d7dbf94099e3045d8/1080/d2ba1e49cd7020851c52546c.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0076/2609c0362890014d7dbf94099e3045d8/100/d2ba1e49cd7020851c52546c.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 4,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102601",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "金**"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76157084511405,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-07-30 10:44:45+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "a********"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76156851679386,
+                "commentLevel": "好评",
+                "content": "物流很快，手机超好看，拍照很清晰，更多的功能正在熟悉中。",
+                "creationTime": "2019-07-30 10:40:52+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76156851680387,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/1080/bc2f419c4d23ffd1d8176170.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/100/bc2f419c4d23ffd1d8176170.jpg"
+                    },
+                    {
+                        "id": 76156851680388,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/1080/69041e13a8df1ecb49da12fe.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/100/69041e13a8df1ecb49da12fe.jpg"
+                    },
+                    {
+                        "id": 76156851680389,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/1080/faab24ab6faaba47d7271da1.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/100/faab24ab6faaba47d7271da1.jpg"
+                    },
+                    {
+                        "id": 76156851680390,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/1080/068b852424e8dd2e273d53c9.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0003/1cd6ef3a82472cd21f5f7b0b9fa41987/100/068b852424e8dd2e273d53c9.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "一到货主人就把我抓来到处炫耀了，不过我乐意！谁让我长得好看呢^_^",
+                        "replyId": 76171980042978,
+                        "replyTime": "2019-07-30 14:53:00+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "133****1309"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76156803338624,
+                "commentLevel": "好评",
+                "content": "时光不老难隐你的美\n青春飞扬尽显你的彩\n珠光贝母厚重你的醇",
+                "creationTime": "2019-07-30 10:40:03+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "珠光贝母,全网通 8GB+256GB,限量套装",
+                "skuCode": "2601010102619",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 限量套装（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "吕**"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76156457650603,
+                "commentLevel": "好评",
+                "content": "手机挺好用的，就是送的服务不知道在哪里",
+                "creationTime": "2019-07-30 10:34:18+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "珠光贝母,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102610",
+                "skuName": "HUAWEI P30 Pro 超感光徕卡四摄 屏内指纹 曲面屏 双景录像 8GB+256GB 全网通版（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "188****5500"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76156177978598,
+                "commentLevel": "好评",
+                "content": "高端大气上档次，就是指纹动不动就亮",
+                "creationTime": "2019-07-30 10:29:38+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76156177978599,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0584/dfb746f98a420718978f4ec675a31549/1080/4cdb7578da200556ee8bed05.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0584/dfb746f98a420718978f4ec675a31549/100/4cdb7578da200556ee8bed05.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "133****0356"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76155611290286,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-07-30 10:20:11+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "回***"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76155495358320,
+                "commentLevel": "好评",
+                "content": "感觉不错",
+                "creationTime": "2019-07-30 10:18:15+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "oh，yeah，ni shuo de dui~",
+                        "replyId": 76188881701078,
+                        "replyTime": "2019-07-30 19:34:42+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "极光色,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102607",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（极光色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "139****1018"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76155411987621,
+                "commentLevel": "好评",
+                "content": "不得不说手机上手效果太棒了，真的是非常喜欢呐，而且物流也很快，预计后天到达的，结果第二天就到了，超赞的😄",
+                "creationTime": "2019-07-30 10:16:52+0800",
+                "gradeCode": 2,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76155411987622,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/1080/dc19c6f3ce1bbde51ad6969d.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/100/dc19c6f3ce1bbde51ad6969d.jpg"
+                    },
+                    {
+                        "id": 76155411987623,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/1080/c02aa70c544270c0653674d9.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/100/c02aa70c544270c0653674d9.jpg"
+                    },
+                    {
+                        "id": 76155411987624,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/1080/9d7e221954a57154091ff5e3.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0289/1ee5df9be0b706f135e51baa91a90a36/100/9d7e221954a57154091ff5e3.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 1,
+                "likes": 7,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 23,
+                        "parentId": 0,
+                        "replyContent": "物流小哥能不快吗？仓库主管说了，速度没让小主满意就把他滴柯基小短腿给卸了～",
+                        "replyId": 76169173572704,
+                        "replyTime": "2019-07-30 14:06:14+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "小**"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76154661062279,
+                "commentLevel": "好评",
+                "content": "不错😊，华为手机第一",
+                "creationTime": "2019-07-30 10:04:21+0800",
+                "gradeCode": 5,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0535/1d3090cb2291072472a17536.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "明人不说暗话，你真的帅，和我们的手机真是绝配！",
+                        "replyId": 76188886083079,
+                        "replyTime": "2019-07-30 19:34:46+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "冬*****"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76153068560603,
+                "commentLevel": "好评",
+                "content": "又买了一台P30PRO，就为了天空之镜这个颜色。一如既往的好。。。。下台继续华为",
+                "creationTime": "2019-07-30 09:37:49+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76153068560604,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0856/2510fe085f28421bf9b5d60815d95cd9/1080/f31a8b2fd3da238ccd268e21.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0856/2510fe085f28421bf9b5d60815d95cd9/100/f31a8b2fd3da238ccd268e21.jpg"
+                    },
+                    {
+                        "id": 76153068560605,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0856/2510fe085f28421bf9b5d60815d95cd9/1080/2a31be43a6e23d178316e4d6.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0856/2510fe085f28421bf9b5d60815d95cd9/100/2a31be43a6e23d178316e4d6.jpg"
+                    }
+                ],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 4,
+                "likes": 1,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "J*"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76151868571958,
+                "commentLevel": "好评",
+                "content": "手机拍照的确很棒！我一个什么也不会的人拍出让我很满意的照片！",
+                "creationTime": "2019-07-30 09:17:49+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [
+                    {
+                        "id": 76151868571959,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/7db8841b0b6be40c122f5c86.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/7db8841b0b6be40c122f5c86.jpg"
+                    },
+                    {
+                        "id": 76151868571960,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/3098f2f1cce6a03e4410f3e9.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/3098f2f1cce6a03e4410f3e9.jpg"
+                    },
+                    {
+                        "id": 76151868571961,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/b95e8280248b390e5dfaf6cd.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/b95e8280248b390e5dfaf6cd.jpg"
+                    },
+                    {
+                        "id": 76151868571962,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/54cabfd5fd9657dd3d3517f7.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/54cabfd5fd9657dd3d3517f7.jpg"
+                    },
+                    {
+                        "id": 76151868571963,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/c385f90f36f751672a901ee1.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/c385f90f36f751672a901ee1.jpg"
+                    },
+                    {
+                        "id": 76151868571964,
+                        "large": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/1080/edb4a46d881b8a12786a328b.jpg",
+                        "small": "https://res.vmallres.com/rms/comment/image/U0380/9690c217bca729e012da264334ea8ea9/100/edb4a46d881b8a12786a328b.jpg"
+                    }
+                ],
+                "isAnonymous": 0,
+                "isShow": 1,
+                "isTop": 1,
+                "likes": 15,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 18,
+                        "parentId": 0,
+                        "replyContent": "我最喜欢三月的风，四月的雨，不落的太阳和最懂我的你。",
+                        "replyId": 76169196549705,
+                        "replyTime": "2019-07-30 14:06:37+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+512GB,官方标配",
+                "skuCode": "2601010102613",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 曲面屏 双景录像 8GB+512GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "hehe"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76148916601086,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-07-30 08:28:37+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0157/5673a1eb9858305d0d756d9a.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "珠光贝母,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102610",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（珠光贝母）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "雲*"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76144016114949,
+                "commentLevel": "好评",
+                "content": "不错很棒的摄像功能",
+                "creationTime": "2019-07-30 07:06:56+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 0,
+                        "parentId": 0,
+                        "replyContent": "春风十里不如华为有您，事实证明您的选择是正确的，此宝物与众皆不同，为出淤泥之清莲，使吾为之动容，心驰神往~",
+                        "replyId": 76188892259081,
+                        "replyTime": "2019-07-30 19:34:52+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102603",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "8******"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76142806540933,
+                "commentLevel": "好评",
+                "content": "一如既往的支持华为，从荣耀6到现在的P30pro，挺能抗的！用着顺手，加油",
+                "creationTime": "2019-07-30 06:46:47+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/rms/comment/image/U0565/c25882185e6f96962fab1fef.jpg",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 2,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [
+                    {
+                        "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_customer_service.png",
+                        "headImageDb": "",
+                        "likes": 1,
+                        "parentId": 0,
+                        "replyContent": "秋千水，竹马道，一眼见你，万物不及。感谢亲对华为的支持~",
+                        "replyId": 76172012253982,
+                        "replyTime": "2019-07-30 14:53:32+0800",
+                        "replyerName": "华为商城客服",
+                        "type": 0
+                    }
+                ],
+                "replyCount": 1,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "亮黑色,全网通 8GB+128GB,官方标配",
+                "skuCode": "2601010102601",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+128GB 全网通版（亮黑色）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "毛****"
+            },
+            {
+                "canReply": "0",
+                "commentId": 76142314495033,
+                "commentLevel": "好评",
+                "content": "用户未填写评价内容",
+                "creationTime": "2019-07-30 06:38:34+0800",
+                "gradeCode": 3,
+                "headImage": "https://res.vmallres.com/nwap/20170828/images/echannelWap/misc/defaultface_user_after.png",
+                "headImageDb": "",
+                "images": [],
+                "isAnonymous": 1,
+                "isShow": 1,
+                "isTop": 0,
+                "likes": 0,
+                "productId": 10086102942203,
+                "replies": [],
+                "replyCount": 0,
+                "score": 5,
+                "showImageCount": 0,
+                "skuAttrs": "天空之境,全网通 8GB+256GB,官方标配",
+                "skuCode": "2601010102608",
+                "skuName": "HUAWEI P30 Pro 麒麟980 超感光徕卡四摄 屏内指纹 双景录像 8GB+256GB 全网通版（天空之境）",
+                "tags": [],
+                "title": "",
+                "type": 0,
+                "userName": "飞***"
+            }
+        ],
+        "count": 112555,
+        "defaultGoodCount": 29254,
+        "goodCount": 111418,
+        "goodRate": "0.99",
+        "hasImageCount": 22222,
+        "hide": 0,
+        "hotTags": [],
+        "loginCount": 0,
+        "loginImageCount": 0,
+        "loginTopCount": 0,
+        "normalCount": 437,
+        "normalRate": "0.0",
+        "page": {
+            "firstRow": 15420,
+            "pageNum": 772,
+            "pageSize": 20,
+            "totalPage": 4166,
+            "totalRow": 83301,
+            "version": 0
+        },
+        "pid": 10086102942203,
+        "pids": [
+            10086102942203,
+            10086576121185,
+            10086036045937,
+            10086092865372,
+            10086567879532,
+            10086570832735,
+            10086303797167,
+            10086198945779,
+            10086490067095,
+            10086440129759,
+            10086442456543,
+            10086921421590,
+            10086777387906,
+            10086204790435,
+            10086450832279,
+            10086113196785,
+            10086321031701,
+            10086336387965,
+            10086809756853,
+            10086314958628,
+            10086447575491,
+            10086501288078,
+            10086490521968,
+            10086025336801,
+            10086970558808,
+            10086091766908
+        ],
+        "score1Count": 700,
+        "score2Count": 145,
+        "score3Count": 292,
+        "score4Count": 532,
+        "score5Count": 81632,
+        "systemTagList": [
+            {
+                "count": 88,
+                "tagId": 10000001,
+                "tagName": "外观不错"
+            },
+            {
+                "count": 84,
+                "tagId": 10050001,
+                "tagName": "拍照不错"
+            },
+            {
+                "count": 80,
+                "tagId": 10080001,
+                "tagName": "物流不错"
+            },
+            {
+                "count": 51,
+                "tagId": 10070001,
+                "tagName": "电池不错"
+            },
+            {
+                "count": 49,
+                "tagId": 10040001,
+                "tagName": "手感好"
+            },
+            {
+                "count": 26,
+                "tagId": 10110001,
+                "tagName": "活动给力"
+            },
+            {
+                "count": 22,
+                "tagId": 10030001,
+                "tagName": "性价比高"
+            },
+            {
+                "count": 15,
+                "tagId": 10010001,
+                "tagName": "屏幕不错"
+            },
+            {
+                "count": 9,
+                "tagId": 10020001,
+                "tagName": "内存很好"
+            },
+            {
+                "count": 7,
+                "tagId": 10090001,
+                "tagName": "服务好"
+            },
+            {
+                "count": 6,
+                "tagId": 10150001,
+                "tagName": "音质很好"
+            },
+            {
+                "count": 4,
+                "tagId": 10130001,
+                "tagName": "指纹识别不错"
+            },
+            {
+                "count": 4,
+                "tagId": 10120001,
+                "tagName": "信号不错"
+            }
+        ],
+        "topCount": 9331
+    },
+    "info": "成功",
+    "resultCode": "0"
+}
