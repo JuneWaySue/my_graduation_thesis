@@ -1,0 +1,1195 @@
+{
+    "productAttr": null,
+    "productCommentSummary": {
+        "skuId": 100002795957,
+        "averageScore": 5,
+        "defaultGoodCount": 447862,
+        "defaultGoodCountStr": "44万+",
+        "commentCount": 614685,
+        "commentCountStr": "61万+",
+        "goodCount": 162680,
+        "goodCountStr": "16万+",
+        "goodRate": 0.97,
+        "goodRateShow": 97,
+        "generalCount": 1345,
+        "generalCountStr": "1300+",
+        "generalRate": 0.008,
+        "generalRateShow": 1,
+        "poorCount": 2798,
+        "poorCountStr": "2700+",
+        "poorRate": 0.022,
+        "poorRateShow": 2,
+        "videoCount": 2532,
+        "videoCountStr": "2500+",
+        "afterCount": 5150,
+        "afterCountStr": "5100+",
+        "showCount": 16861,
+        "showCountStr": "1.6万+",
+        "oneYear": 0,
+        "sensitiveBook": 0,
+        "fixCount": 0,
+        "plusCount": 0,
+        "plusCountStr": "0",
+        "buyerShow": 0,
+        "poorRateStyle": 4,
+        "generalRateStyle": 1,
+        "goodRateStyle": 145,
+        "installRate": 0,
+        "productId": 100002795957,
+        "score1Count": 2798,
+        "score2Count": 437,
+        "score3Count": 908,
+        "score4Count": 1540,
+        "score5Count": 161140
+    },
+    "hotCommentTagStatistics": [
+        {
+            "id": "88a3a45c74511b8c",
+            "name": "颜色绚丽",
+            "count": 73,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "88a3a45c74511b8c",
+            "ckeKeyWordBury": "eid=104^^tagid=88a3a45c74511b8c^^pid=20001^^sku=100002795957^^sversion=1000^^token=4c6610992e733b21"
+        },
+        {
+            "id": "3a3b0b7212d0d52d",
+            "name": "拍摄功能强",
+            "count": 69,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "3a3b0b7212d0d52d",
+            "ckeKeyWordBury": "eid=104^^tagid=3a3b0b7212d0d52d^^pid=20001^^sku=100002795957^^sversion=1000^^token=24a4c64247f493de"
+        },
+        {
+            "id": "832f54514c5ef08a",
+            "name": "反应超快",
+            "count": 64,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "832f54514c5ef08a",
+            "ckeKeyWordBury": "eid=104^^tagid=832f54514c5ef08a^^pid=20001^^sku=100002795957^^sversion=1000^^token=c3c5bb8a722ea900"
+        },
+        {
+            "id": "a64d7fe6837bc0cf",
+            "name": "功能强大",
+            "count": 50,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "a64d7fe6837bc0cf",
+            "ckeKeyWordBury": "eid=104^^tagid=a64d7fe6837bc0cf^^pid=20001^^sku=100002795957^^sversion=1000^^token=91779d6a6f9f55f9"
+        },
+        {
+            "id": "621a1c388cce99d3",
+            "name": "清晰度高",
+            "count": 49,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "621a1c388cce99d3",
+            "ckeKeyWordBury": "eid=104^^tagid=621a1c388cce99d3^^pid=20001^^sku=100002795957^^sversion=1000^^token=037d2d08859b3ad4"
+        },
+        {
+            "id": "360d25c3e22ce85b",
+            "name": "充电快速",
+            "count": 32,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "360d25c3e22ce85b",
+            "ckeKeyWordBury": "eid=104^^tagid=360d25c3e22ce85b^^pid=20001^^sku=100002795957^^sversion=1000^^token=17461a40cb02b63e"
+        },
+        {
+            "id": "2487c0f9e595f04d",
+            "name": "手感一流",
+            "count": 21,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "2487c0f9e595f04d",
+            "ckeKeyWordBury": "eid=104^^tagid=2487c0f9e595f04d^^pid=20001^^sku=100002795957^^sversion=1000^^token=730d826b051f1b7a"
+        },
+        {
+            "id": "11cc6251dc1a89d8",
+            "name": "质感俱佳",
+            "count": 9,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "11cc6251dc1a89d8",
+            "ckeKeyWordBury": "eid=104^^tagid=11cc6251dc1a89d8^^pid=20001^^sku=100002795957^^sversion=1000^^token=3b036c604b16e21b"
+        },
+        {
+            "id": "a2bba18742dd3c05",
+            "name": "容量十足",
+            "count": 3,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "a2bba18742dd3c05",
+            "ckeKeyWordBury": "eid=104^^tagid=a2bba18742dd3c05^^pid=20001^^sku=100002795957^^sversion=1000^^token=eae8367ea8d2a00e"
+        },
+        {
+            "id": "26d174d73fe2ec1c",
+            "name": "音质上乘",
+            "count": 3,
+            "type": 4,
+            "canBeFiltered": true,
+            "stand": 1,
+            "rid": "26d174d73fe2ec1c",
+            "ckeKeyWordBury": "eid=104^^tagid=26d174d73fe2ec1c^^pid=20001^^sku=100002795957^^sversion=1000^^token=eaaba436d600cd12"
+        }
+    ],
+    "jwotestProduct": null,
+    "maxPage": 100,
+    "testId": "cmt",
+    "score": 3,
+    "soType": 5,
+    "imageListCount": 500,
+    "vTagStatistics": null,
+    "csv": "eid=100^^tagid=GOOD^^pid=20001^^sku=100004404954^^sversion=1001^^pageSize=13",
+    "comments": [
+        {
+            "id": 13287829975,
+            "guid": "f97ce995-4a88-43d4-9499-05a8fec498f8",
+            "content": "非常满意。超级好用。拍照功能强大，外观很好看。京东也很给力，头天晚上睡觉之前下的单，第二天早上一睁眼货已经到了身边。",
+            "vcontent": "",
+            "creationTime": "2019-10-03 08:45:03",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 522061529,
+                    "commentId": 13287829975,
+                    "content": "听说重复看一个字超过10次，就会觉得它不像字，但这个“好”我看一百遍都觉得它“好”",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "1.85.63.164",
+                    "productId": 100004404944,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-10-04 15:27:21",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 1,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 0,
+            "userClient": 4,
+            "discussionId": 609539487,
+            "imageCount": 9,
+            "anonymousFlag": 1,
+            "plusAvailable": 201,
+            "mobileVersion": "8.2.7",
+            "images": [
+                {
+                    "id": 948169910,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/66119/7/11807/99576/5d954488E3323b0f4/1b064a7ce6a00da3.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169911,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/74688/27/12087/118538/5d954489Ea490d665/08d2a59f8107553f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169912,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/56494/39/12489/105901/5d95448aE95317fd7/8473e9825bebc58f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169913,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/73592/24/11861/81425/5d95448bE6e105257/75910877ff326a3f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169914,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/65309/21/12156/130535/5d95448cE808d6000/1cad9bac1c23f640.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169915,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/71808/9/11834/115264/5d95448cE5ac57f8a/753acad626c72259.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169916,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/74047/30/11962/137049/5d95448dE03a199fe/ae061f743954a739.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169917,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/61467/34/11806/61332/5d95448eE11459841/8ab681c3272a72ee.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 948169918,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/72964/25/11951/65798/5d95448eEaa33d10f/e80d6978acbdef8f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "亮黑色",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100004404944",
+            "referenceTime": "2019-10-01 23:07:55",
+            "nickname": "j***x",
+            "replyCount2": 1,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": null,
+            "days": 2,
+            "afterDays": 0
+        },
+        {
+            "id": 13359356590,
+            "guid": "ff8e7c62-73fd-4600-b480-6f356c6d4492",
+            "content": "华为的外观一如既往的闪，前后透亮，手感特别棒，屏幕尺寸大小很合适，前置摄像头根本可以忽略不计，看大片电影非常有感觉，画面颜色也特别棒，拍照效果简直了，自动变焦更换模式，远距人像都特别清晰，运行速度快到飞起，侧面返回也相当敏捷，单手操作没有任何障碍，待机时间在长时间玩手机的情况下都能保持1天半的时间才到百分之20，总的来说外观好看屏幕色彩鲜艳运行速度快待机时间长，价格来说很合理，赞?",
+            "vcontent": "",
+            "creationTime": "2019-10-23 08:35:10",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 532767230,
+                    "commentId": 13359356590,
+                    "content": "华为手机没别的优点，也就是拍照好看点，手感好点，续航长点、运行快点，长的好看点。",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "1.85.63.164",
+                    "productId": 100004404928,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-10-29 14:17:39",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 2,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 9,
+            "userClient": 4,
+            "discussionId": 619237801,
+            "imageCount": 2,
+            "anonymousFlag": 0,
+            "plusAvailable": 201,
+            "mobileVersion": "8.3.2",
+            "images": [
+                {
+                    "id": 962417539,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/48902/33/14121/83517/5dafa03dE5c46fe5c/aefed10720a4d1d5.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 962417540,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/82794/31/13491/95249/5dafa03dE5d52b1de/28fb710339256f71.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "videos": [
+                {
+                    "id": 962417541,
+                    "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/10848b91239302083323944961/imageSampleSnapshot/1571790069_93878069.100_990.jpg",
+                    "videoHeight": 1280,
+                    "videoWidth": 720,
+                    "videoLength": 9,
+                    "videoTitle": "",
+                    "videoUrl": 122493300,
+                    "videoId": 122493300,
+                    "status": 0,
+                    "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/10848b91239302083323944961/v.f30.mp4?dockingId=1fce634e-264a-414c-9061-cfdd6098ae60&storageSource=3"
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "亮黑色",
+            "productSize": "8GB+256GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100004404928",
+            "referenceTime": "2019-09-22 09:13:01",
+            "nickname": "oh_lzy",
+            "replyCount2": 2,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "TmiiSTyYV4lnYR7uXnjGH8NrwGZ1qHoGWxYDDGgs5-aLpxuvdzha78zS167e0Yf9aH3Da7fiJWw7r-NZA2m0ZA",
+            "days": 31,
+            "afterDays": 0
+        },
+        {
+            "id": 13825114142,
+            "guid": "f43ed592-5d25-4f3d-9132-ba968a7b227c",
+            "content": "外形外观：超级好看\n屏幕音效：够大够清晰还漂亮\n拍照效果：这个不用我多说了吧，超级棒\n运行速度：一个字，快，两个字，超级快\n待机时间：超长，充电超级快，电池超级耐用",
+            "vcontent": "{$%&外形外观：&%$}超级好看\n{$%&屏幕音效：&%$}够大够清晰还漂亮\n{$%&拍照效果：&%$}这个不用我多说了吧，超级棒\n{$%&运行速度：&%$}一个字，快，两个字，超级快\n{$%&待机时间：&%$}超长，充电超级快，电池超级耐用",
+            "creationTime": "2020-02-21 20:50:09",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 587162079,
+                    "commentId": 13825114142,
+                    "content": "我以为我是最谦虚的手机，直到看到您的夸赞，我才惊觉，谦虚就是那浮云，是的是的，您说的可对了。",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "113.200.106.65",
+                    "productId": 100002795957,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2020-02-26 11:39:15",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 1,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 0,
+            "userClient": 2,
+            "discussionId": 682694727,
+            "imageCount": 5,
+            "anonymousFlag": 0,
+            "plusAvailable": 201,
+            "mobileVersion": "",
+            "images": [
+                {
+                    "id": 1060880397,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/85262/14/12860/72264/5e4fd1ffE45b91895/b14abb6035e27be3.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1060880398,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/101193/19/12667/95857/5e4fd200E16ce6eaa/3223970e84830882.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1060880399,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/107588/35/6705/114402/5e4fd200Eff918083/d257c060cd57f5f0.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1060880400,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/99242/7/12868/143138/5e4fd200E1067bd1d/5141b2a0ed552f6d.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1060880401,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/110002/26/6640/168815/5e4fd201E6a8dd5eb/a00f013e0dda59b0.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "赤茶橘",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100002795957",
+            "referenceTime": "2020-02-07 11:03:59",
+            "nickname": "134*****368_p",
+            "replyCount2": 1,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "Hx3c1qf0sbj1BSyjkp3GuK4esj7Y0UCHDK2OaX3Ekcz5beK56Td8g-OQnP1P4fKDPVxcIxX7C0JhEEvEsT8_8g",
+            "days": 14,
+            "afterDays": 0
+        },
+        {
+            "id": 12916065463,
+            "guid": "b2fdcab4-860a-4eeb-9e84-3664d1ad0595",
+            "content": "手机收到了，极光色的，很漂亮，运行速度很快，很流畅，50倍变焦很不错，拍照目前很强大，手机做工很优秀，碾压一切手机，支持华为，支持国产。",
+            "creationTime": "2019-06-19 23:09:56",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 542562004,
+                    "commentId": 12916065463,
+                    "content": "君住长江头，妾住长江尾，日日思君不见君，共用华为机～",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "123.139.88.100",
+                    "productId": 100004404948,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-11-17 15:54:38",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 22,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 92,
+            "userClient": 4,
+            "discussionId": 560122336,
+            "imageCount": 2,
+            "anonymousFlag": 0,
+            "plusAvailable": 0,
+            "mobileVersion": "8.1.0",
+            "images": [
+                {
+                    "id": 871132329,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/77321/11/2360/204284/5d0a5043Ec5f36032/c73869f7aebca1e3.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 871132330,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/51493/5/2817/119494/5d0a5043E27da0761/a2a8b17806404a94.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "videos": [
+                {
+                    "id": 871133381,
+                    "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/16643c76193862369515413505/imageSampleSnapshot/1560956563_507137619.100_1008.jpg",
+                    "videoHeight": 1280,
+                    "videoWidth": 720,
+                    "videoLength": 10,
+                    "videoTitle": "",
+                    "videoUrl": 97639064,
+                    "videoId": 97639064,
+                    "status": 0,
+                    "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/16643c76193862369515413505/v.f30.mp4?dockingId=85a50faa-4f61-4475-bd94-8afca3f9d4c4&storageSource=3"
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "极光色",
+            "productSize": "8GB+256GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100004404948",
+            "referenceTime": "2019-06-18 11:18:02",
+            "nickname": "j***c",
+            "replyCount2": 41,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "ogV1enNfiAjyYXU3bEqfwMvRCyzU4swnQ_2p2l7or9GuVL5EGnKp0ovkncKa6odA__idELxgh9DmWrcKER4Xng",
+            "days": 1,
+            "afterDays": 0
+        },
+        {
+            "id": 12999969659,
+            "guid": "8a1b7df5-c7f6-42d0-ba4a-6073fc7d2d30",
+            "content": "非常漂亮的手机，运行速度也很好，很流畅，照相很清晰（前后都很清楚），这是我购买的第一部华为旗舰手机，前几年用过华为的手机，觉得很不错，支持华为，支持国产手机?。",
+            "creationTime": "2019-07-10 19:13:40",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "storage.360buyimg.com/i.imageUpload/6a645f3531373234643066396237656131343334313538373130373436_sma.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 490832388,
+                    "commentId": 12999969659,
+                    "content": "风里雨里，从此你走进了华为官方旗舰店的心里",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "1.85.63.164",
+                    "productId": 100002795959,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-07-11 15:53:58",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 1,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 1,
+            "userClient": 4,
+            "discussionId": 571756447,
+            "imageCount": 7,
+            "anonymousFlag": 0,
+            "plusAvailable": 0,
+            "mobileVersion": "8.1.4",
+            "images": [
+                {
+                    "id": 889174872,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/83657/18/4169/73476/5d25c85eE0d2a1d05/fbe4d970cd5baaf1.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174873,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/66691/26/4196/73061/5d25c860Edcaf403d/56c4d395fbf53d76.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174874,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/51680/17/4574/56100/5d25c860E5b6d52cc/9bc34ddd0f079f1c.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174875,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/35074/6/14249/73785/5d25c861Ed8821e07/cf60bd2e26446e3f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174876,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/75892/20/4169/76798/5d25c862E465ff817/26910760525365d4.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174877,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/57622/35/4701/87598/5d25c863Ef0ea0b61/7ec44783c2f040d4.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 889174878,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/65327/3/4192/86928/5d25c864E8fdf3cd7/5007ec765fbb436c.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "极光色",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100002795959",
+            "referenceTime": "2019-07-09 00:03:18",
+            "nickname": "ZZQ86",
+            "replyCount2": 1,
+            "userImage": "storage.360buyimg.com/i.imageUpload/6a645f3531373234643066396237656131343334313538373130373436_sma.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "TUQ66e8I9olNsmNa3rt2c3HerU_9wjkg2YTrxxDTQalMAkXLs42OTvrilyi0VnoH9r32d9Jqvr5PSZJqvv5qvA",
+            "days": 1,
+            "afterDays": 0
+        },
+        {
+            "id": 13228402105,
+            "guid": "a83463c2-07b1-487a-ac2d-9706328e42df",
+            "content": "外形外观：外形没的说，个人感觉这款男孩比较适合。?很酷，颜色很正喜欢。\n屏幕音效：声音很好，音效没的说，换了手机我自己的蓝牙耳机音质都好了很多，听音乐?音质很棒。\n拍照效果：拍照更没的说，杠杠的，夜景是真的可以拍月亮。像素是我最用手机最好的。\n运行速度：运行速度流畅的很，软件基本都是秒开，开好几个软件在后台没有感觉到有什么问题。\n待机时间：对于我这个机不离手的人来说，待机刚刚好充满电一天正好够用。\n\n其他特色：总体来说价格美丽，性能优越，配置没的说。支持国货，从我做起。",
+            "vcontent": "{$%&外形外观：&%$}外形没的说，个人感觉这款男孩比较适合。?很酷，颜色很正喜欢。\n{$%&屏幕音效：&%$}声音很好，音效没的说，换了手机我自己的蓝牙耳机音质都好了很多，听音乐?音质很棒。\n{$%&拍照效果：&%$}拍照更没的说，杠杠的，夜景是真的可以拍月亮。像素是我最用手机最好的。\n{$%&运行速度：&%$}运行速度流畅的很，软件基本都是秒开，开好几个软件在后台没有感觉到有什么问题。\n{$%&待机时间：&%$}对于我这个机不离手的人来说，待机刚刚好充满电一天正好够用。\n\n{$%&其他特色：&%$}总体来说价格美丽，性能优越，配置没的说。支持国货，从我做起。",
+            "creationTime": "2019-09-15 21:23:11",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "storage.360buyimg.com/i.imageUpload/36303034383138322d31333033383331343831343536303538303236_sma.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 552666031,
+                    "commentId": 13228402105,
+                    "content": "好嗨哟，感觉人生已经到达了巅峰，好嗨哟，感觉人生已经到达了高潮；自从用上这p30Pro，相信不用多久，你就会升职加薪、当上总经理、出任CEO、迎娶白富美、走上人生巅峰，想想客服MM还有点小激动呢，感谢您对华为的支持。",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "123.139.88.100",
+                    "productId": 100004404936,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-12-03 16:12:21",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 7,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 27,
+            "userClient": 4,
+            "discussionId": 601925550,
+            "imageCount": 3,
+            "anonymousFlag": 0,
+            "plusAvailable": 103,
+            "mobileVersion": "8.2.4",
+            "images": [
+                {
+                    "id": 936223338,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/48329/25/10781/91693/5d7e3b3eE1249fff3/2b2b484d53bb8a4c.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 936223339,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/52165/36/11120/76130/5d7e3b3fEb9b124d9/aaf272ad1fc1a032.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 936223340,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/53028/8/10901/100099/5d7e3b3fE4b3e2c9a/1aa723a224a12238.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "videos": [
+                {
+                    "id": 936223341,
+                    "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/363db436225728148535775233/imageSampleSnapshot/1568553805_212328326.100_1052.jpg",
+                    "videoHeight": 1280,
+                    "videoWidth": 720,
+                    "videoLength": 10,
+                    "videoTitle": "",
+                    "videoUrl": 114817898,
+                    "videoId": 114817898,
+                    "status": 0,
+                    "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/363db436225728148535775233/v.f30.mp4?dockingId=2d655362-18cb-46e1-87b7-1b456004336a&storageSource=3"
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "亮黑色",
+            "productSize": "8GB+512GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100004404936",
+            "referenceTime": "2019-09-12 14:21:31",
+            "nickname": "今年此刻开始",
+            "replyCount2": 8,
+            "userImage": "storage.360buyimg.com/i.imageUpload/36303034383138322d31333033383331343831343536303538303236_sma.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "fOEVkBlUEYkL23XHdy-BeunlmrH5etz0XKtDd-BT8h0YcDeS0Y1m7TgjWE6bSL0amN8pBydoFPDFBPEFaUoaqA",
+            "days": 3,
+            "afterDays": 0
+        },
+        {
+            "id": 12641510367,
+            "guid": "a9db1d9a-5c95-42b4-b43d-a829d72295cd",
+            "content": "还没发布上市就开始关注这款手机，果然很优秀，从欧洲发布国内预售，到昨天国行公布价格，果断入手，天空之境颜色让人眼前一亮，非常好看，系统升级到最新相当流畅，屏幕指纹和面部识别都很快，1080p的屏幕也没网上说得那么差劲，前置屏幕发声感觉比米8听筒音量大很多，非常清晰，相机?功能强大还没来得及摸索，身边亲戚朋友从?换华为的不低于5个，希望华为越来越强！",
+            "creationTime": "2019-04-12 17:04:00",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "storage.360buyimg.com/i.imageUpload/cee9bda83035303631353139373433333439363832_sma.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 546691702,
+                    "commentId": 12641510367,
+                    "content": "听说同事去旅游，我一点都不羡慕！因为我可以买个地球仪，不但可以看看，还可以转转（傲娇脸）。但听说你拿着刚买的P30 Pro去旅游，我却羡慕的要死~",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "123.139.88.100",
+                    "productId": 100004323294,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-11-23 10:52:59",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 114,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 187,
+            "userClient": 4,
+            "discussionId": 525264445,
+            "imageCount": 4,
+            "anonymousFlag": 1,
+            "plusAvailable": 201,
+            "mobileVersion": "7.5.0",
+            "images": [
+                {
+                    "id": 817918678,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/24045/6/15446/105360/5cb0547eEfca067fd/682beb17847a279c.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 817918679,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/25094/24/15445/55073/5cb0547fE18b3afe4/7b3b675c15f41157.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 817918680,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/16965/13/15536/163366/5cb05480E3ca05462/ad020493bd7e70a2.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 817918681,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/35982/9/1173/171457/5cb05480E0c5abc1a/cc2d5fdcee53927e.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "videos": [
+                {
+                    "id": 817918682,
+                    "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/06fb7199169127951085412353/imageSampleSnapshot/1555059365_819480492.100_1003.jpg",
+                    "videoHeight": 1280,
+                    "videoWidth": 720,
+                    "videoLength": 10,
+                    "videoTitle": "",
+                    "videoUrl": 81236769,
+                    "videoId": 81236769,
+                    "status": 0,
+                    "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/06fb7199169127951085412353/v.f30.mp4?dockingId=440ea903-65c5-482f-9440-fef1419eff04&storageSource=3"
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "天空之境",
+            "productSize": "标准版",
+            "textIntegral": 40,
+            "imageIntegral": 20,
+            "afterUserComment": {
+                "id": 39833261,
+                "productId": 100004323294,
+                "content": "拍照直男，不懂任何技巧，p30pro超强夜景拍照",
+                "commentId": 12641510367,
+                "clientType": 4,
+                "delete": false,
+                "top": false,
+                "hAfterUserComment": {
+                    "content": "拍照直男，不懂任何技巧，p30pro超强夜景拍照",
+                    "id": 39833261
+                },
+                "status": 1,
+                "modified": "2019-04-12 22:10:47",
+                "created": "2019-04-12 22:10:47"
+            },
+            "status": 1,
+            "referenceId": "100004323294",
+            "referenceTime": "2019-03-27 00:00:19",
+            "nickname": "伍***霖",
+            "replyCount2": 237,
+            "userImage": "storage.360buyimg.com/i.imageUpload/cee9bda83035303631353139373433333439363832_sma.jpg",
+            "orderId": 0,
+            "integral": 60,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择内存\",\"saleValue\":\"8GB+128GB\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": null,
+            "days": 16,
+            "afterDays": 16
+        },
+        {
+            "id": 12840739979,
+            "guid": "68a3791a-4ede-49aa-8369-6fe1321315db",
+            "content": "看了好久，很喜欢，最初在橘色和天空色间犹豫不决，终于还是下手了?，选择了橘色，拿到手真的很漂亮，拍照也不错，iPhoneX退居二线，有p30pro和w2018够用了",
+            "creationTime": "2019-06-03 19:17:22",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [],
+            "replyCount": 4,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 13,
+            "userClient": 2,
+            "discussionId": 549621185,
+            "imageCount": 9,
+            "anonymousFlag": 1,
+            "plusAvailable": 201,
+            "mobileVersion": "8.0.2",
+            "images": [
+                {
+                    "id": 855144411,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/80794/11/1088/543087/5cf501b9Ee763121d/d90c0d9a9a290d13.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144412,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/77935/13/1043/539619/5cf501baEe5f20cff/15face6e25ef5049.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144413,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/50612/26/1545/565693/5cf501bbE87f0cfd9/788a2e281564ac76.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144414,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/66210/21/1062/696387/5cf501bcEa1012b66/d95d97fb5ac52ffc.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144415,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/42437/33/5763/761874/5cf501bdE9065b4a4/c02b0ed0553ef347.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144416,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/34360/29/9932/670614/5cf501beE8ba7fee0/b921da9faaab537c.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144417,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/74027/34/1082/550227/5cf501bfEe75b2032/9e0fcc1e519aa923.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144418,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/83869/36/1052/792703/5cf501c0E67342f8f/cc3e276aed5f10d1.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 855144419,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/48736/37/1573/576285/5cf501c2Ee72e0ee8/8a76a67ecc78216e.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "赤茶橘",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100002795957",
+            "referenceTime": "2019-06-01 08:32:23",
+            "nickname": "q***0",
+            "replyCount2": 6,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": null,
+            "days": 2,
+            "afterDays": 0
+        },
+        {
+            "id": 13248220846,
+            "guid": "7bc22112-5e7c-4914-b1d6-485d8988e273",
+            "content": "外形外观：好看，大气\n屏幕音效：音效好\n运行速度：玩游戏速度快，不卡顿\n系统用起来非常方便，人性化",
+            "vcontent": "{$%&外形外观：&%$}好看，大气\n{$%&屏幕音效：&%$}音效好\n{$%&运行速度：&%$}玩游戏速度快，不卡顿\n系统用起来非常方便，人性化",
+            "creationTime": "2019-09-21 13:53:50",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 518393269,
+                    "commentId": 13248220846,
+                    "content": "天天看您们秀恩爱，天天被您们喂得饱饱的，二十多岁的年纪了，还孤身一人，唉～唯有寄情于工作，请不要阻止我，工作使我快乐(╥╯^╰╥)",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "1.85.63.164",
+                    "productId": 100002795959,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2019-09-23 15:00:20",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 3,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 1,
+            "userClient": 2,
+            "discussionId": 604482066,
+            "imageCount": 3,
+            "anonymousFlag": 0,
+            "plusAvailable": 201,
+            "mobileVersion": "8.2.4",
+            "images": [
+                {
+                    "id": 940194713,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/77290/6/10923/267234/5d85baeeE02d7af54/0ecab1686301e338.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 940194714,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/70089/1/10947/224390/5d85baeeEbc0e0e5a/5abe4bf25ee0d69a.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 940194715,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/64983/4/10918/242351/5d85baeeE9188ba23/1e9379e204771880.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "videos": [
+                {
+                    "id": 940194716,
+                    "mainUrl": "https://img.300hu.com/4c1f7a6atransbjngwcloud1oss/43245329227788987111591937/imageSampleSnapshot/1569045134_458161189.100_567.jpg",
+                    "videoHeight": 720,
+                    "videoWidth": 1280,
+                    "videoLength": 5,
+                    "videoTitle": "",
+                    "videoUrl": 115980591,
+                    "videoId": 115980591,
+                    "status": 0,
+                    "remark": "https://vod.300hu.com/4c1f7a6atransbjngwcloud1oss/43245329227788987111591937/v.f30.mp4?dockingId=bd2169ae-c0d6-4a59-93a8-e7d23cc8a09c&storageSource=3"
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "极光色",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100002795959",
+            "referenceTime": "2019-09-20 15:28:21",
+            "nickname": "夜微星",
+            "replyCount2": 3,
+            "userImage": "misc.360buyimg.com/user/myjd-2015/css/i/peisong.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "hFazQmN8OjhQB3pqgajWsiH6qLJcfM0i3ZH0esXGlVy8Ubz6nPF55SztZPmzs0OEhdHuepFexFccyyZcnrvv6A",
+            "days": 1,
+            "afterDays": 0
+        },
+        {
+            "id": 13804811953,
+            "guid": "af72bdc6-9f6e-48af-878d-63eaea35a782",
+            "content": "外形外观：蓝色渐变的很酷炫，很喜欢\n待机时间：不仅待机时间久，而且充电也是超级快充哦，\n屏幕音效：很棒。特别清楚，两边曲面屏很棒，\n拍照效果：拍照效果简直绝了，，这么棒，站在20楼拍地面跟站在跟前儿一样的效果，，以后可得把窗户关好了。。。。\n运行速度：很棒，运行很大。",
+            "vcontent": "{$%&外形外观：&%$}蓝色渐变的很酷炫，很喜欢\n{$%&待机时间：&%$}不仅待机时间久，而且充电也是超级快充哦，\n{$%&屏幕音效：&%$}很棒。特别清楚，两边曲面屏很棒，\n{$%&拍照效果：&%$}拍照效果简直绝了，，这么棒，站在20楼拍地面跟站在跟前儿一样的效果，，以后可得把窗户关好了。。。。\n{$%&运行速度：&%$}很棒，运行很大。",
+            "creationTime": "2020-02-15 19:48:47",
+            "isDelete": false,
+            "isTop": false,
+            "userImageUrl": "storage.360buyimg.com/i.imageUpload/cedec4e3c8a1c4d6303431353439373130383139343239_sma.jpg",
+            "topped": 0,
+            "replies": [
+                {
+                    "id": 586161180,
+                    "commentId": 13804811953,
+                    "content": "百因必有果，您的归属就是我，您收到宝贝的喜悦感，都传到客服这里来了呢~产品能给您带来快乐是华为不懈的追求~",
+                    "pin": "华***器",
+                    "userClient": 103,
+                    "userImage": "storage.360buyimg.com/i.imageUpload/bbaaceaad6d5b6cbc2b7d3c9c6f731353333333636333838333239_sma.jpg",
+                    "ip": "113.200.107.110",
+                    "productId": 100002795959,
+                    "replyList": [],
+                    "nickname": "华***器",
+                    "creationTime": "2020-02-23 17:03:30",
+                    "parentId": 0,
+                    "targetId": 0,
+                    "venderShopInfo": {
+                        "id": 1000004259,
+                        "appName": "//huawei.jd.com",
+                        "title": "华为京东自营官方旗舰店",
+                        "venderId": 1000004259
+                    }
+                }
+            ],
+            "replyCount": 1,
+            "score": 5,
+            "imageStatus": 1,
+            "title": "",
+            "usefulVoteCount": 1,
+            "userClient": 2,
+            "discussionId": 679808042,
+            "imageCount": 4,
+            "anonymousFlag": 0,
+            "plusAvailable": 201,
+            "mobileVersion": "",
+            "images": [
+                {
+                    "id": 1056592222,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/99072/3/12424/196929/5e47da9fE4e4dc686/1b52f1061231eb5f.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1056592223,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/91821/40/12493/176006/5e47da9fEbf3bb579/ba1ca1205194ecc9.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1056592224,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/110274/2/6250/118646/5e47da9fEf4389e48/d378527262f0766a.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                },
+                {
+                    "id": 1056592225,
+                    "imgUrl": "//img30.360buyimg.com/n0/s128x96_jfs/t1/90604/22/12190/179324/5e47da9fE881177d7/5f7c6fc8c7d15c9e.jpg",
+                    "imgTitle": "",
+                    "status": 0
+                }
+            ],
+            "mergeOrderStatus": 2,
+            "productColor": "极光色",
+            "productSize": "8GB+128GB",
+            "textIntegral": 20,
+            "imageIntegral": 20,
+            "status": 1,
+            "referenceId": "100002795959",
+            "referenceTime": "2020-01-22 22:33:21",
+            "nickname": "无***4",
+            "replyCount2": 1,
+            "userImage": "storage.360buyimg.com/i.imageUpload/cedec4e3c8a1c4d6303431353439373130383139343239_sma.jpg",
+            "orderId": 0,
+            "integral": 40,
+            "productSales": "[{\"dim\":3,\"saleName\":\"选择版本\",\"saleValue\":\"标准版\"}]",
+            "referenceImage": "jfs/t1/106024/6/15194/151828/5e6f567aE2cda8c39/f0e7341ff865eed2.jpg",
+            "referenceName": "华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB赤茶橘全网通版双4G手机",
+            "firstCategory": 9987,
+            "secondCategory": 653,
+            "thirdCategory": 655,
+            "aesPin": "WNgQdkTqOmuaXPXRVnIsE6yYCskVMA82ebjfZFnoeCCQGXBAXrE5h3iX6weLk_TgHb6JVffhSNQQHhFi1j5Lbw",
+            "days": 24,
+            "afterDays": 0
+        }
+    ]
+}
