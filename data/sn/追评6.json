@@ -1,0 +1,915 @@
+{
+    "commodityReviews": [
+        {
+            "bestTag": 0,
+            "commodityReviewId": 600692083,
+            "content": "我不是预订的，我12号才下单，没想到13号一大早就收到了，完美！我还以为要排队到月底才能轮到我呢。刚开始用！整体不错！",
+            "publishTime": "2019-04-13 23:19:31",
+            "publishTimeStr": "2019-04-13 23:19:31",
+            "deviceType": 5,
+            "sourceSystem": "android",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "E***8",
+                "levelId": "161000000140",
+                "levelName": "V4",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_29_60x60.jpg",
+                "isVip": true
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 59,
+            "picVideInfo": {
+                "imgCount": 2,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155516849222071401",
+                        "coverFlag": false,
+                        "ordershowId": 55771287
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155516850197483522",
+                        "coverFlag": false,
+                        "ordershowId": 55771287
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1163943,
+                "commodityReviewId": 600692083,
+                "againContent": "今天收到***杆了，因为是前200晒单的，所以店家送的，本来以为是那种几十块钱廉价的***杆，所以我也没在意，也就忘记这事了，没想到今天收到居然是华为这款一百多的***杆，质量很不错哦！大赞！看来华为手表可以考虑在他们家买了！！！",
+                "publishTime": "2019-05-10 17:43:10",
+                "publishTimeStr": "27天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155748117760741497"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155748117749145687"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 2,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": -1,
+            "commodityReviewId": 600466083,
+            "content": "外观漂亮，性能好，玻璃曲屏，摄像头更是超强，为华为点赞，支持国产！",
+            "publishTime": "2019-04-12 11:58:37",
+            "publishTimeStr": "2019-04-12 11:58:37",
+            "deviceType": 6,
+            "sourceSystem": "ios",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "1***8",
+                "levelId": "161000000130",
+                "levelName": "V3",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_26_60x60.jpg",
+                "isVip": true
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 33,
+            "picVideInfo": {
+                "imgCount": 4,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155504123025280551",
+                        "coverFlag": false,
+                        "ordershowId": 55711531
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155504123090417153",
+                        "coverFlag": false,
+                        "ordershowId": 55711531
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155504123105452365",
+                        "coverFlag": false,
+                        "ordershowId": 55711531
+                    },
+                    {
+                        "imgSeq": 4,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155504139708746636",
+                        "coverFlag": false,
+                        "ordershowId": 55711531
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 998027,
+                "commodityReviewId": 600466083,
+                "againContent": "拍照效果很赞～",
+                "publishTime": "2019-04-12 15:37:50",
+                "publishTimeStr": "当天追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": false,
+            "againReviewImgList": [],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 4,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 600502911,
+            "content": "真香，以前没有想到过拿到手机会这么香，很喜欢，配送的也很快，激动！！！",
+            "publishTime": "2019-04-12 16:19:03",
+            "publishTimeStr": "2019-04-12 16:19:03",
+            "deviceType": 6,
+            "sourceSystem": "ios",
+            "anonFlag": false,
+            "userInfo": {
+                "nickName": "1***6",
+                "levelId": "161000000110",
+                "levelName": "V1",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_27_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 35,
+            "picVideInfo": {
+                "imgCount": 3,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155505704894189982",
+                        "coverFlag": false,
+                        "ordershowId": 55721346
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155505704909212556",
+                        "coverFlag": false,
+                        "ordershowId": 55721346
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155505713984891177",
+                        "coverFlag": false,
+                        "ordershowId": 55721346
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [
+                {
+                    "labelName": "音质好"
+                },
+                {
+                    "labelName": "屏幕清晰"
+                },
+                {
+                    "labelName": "反应快"
+                },
+                {
+                    "labelName": "分辨率高"
+                },
+                {
+                    "labelName": "性价比一般般"
+                }
+            ],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1000853,
+                "commodityReviewId": 600502911,
+                "againContent": "用了一天真的爽，拍月亮要不是手抖估计能更清楚，这个拍照确实没的说，真的厉害，还是想说，真香啊",
+                "publishTime": "2019-04-13 08:27:51",
+                "publishTimeStr": "1天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155511519060511734"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155511519289188257"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155511519358283587"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 3,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 600460246,
+            "content": "漂亮，果粉转花粉",
+            "publishTime": "2019-04-12 11:19:18",
+            "publishTimeStr": "2019-04-12 11:19:18",
+            "deviceType": 6,
+            "sourceSystem": "ios",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "e***n",
+                "levelId": "161000000110",
+                "levelName": "V1",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_25_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 8,
+            "picVideInfo": {
+                "imgCount": 3,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155503912807154620",
+                        "coverFlag": false,
+                        "ordershowId": 55710077
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155503912829694454",
+                        "coverFlag": false,
+                        "ordershowId": 55710077
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155503912858186399",
+                        "coverFlag": false,
+                        "ordershowId": 55710077
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 996566,
+                "commodityReviewId": 600460246,
+                "againContent": "拍照杠杠的",
+                "publishTime": "2019-04-12 11:19:59",
+                "publishTimeStr": "当天追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": false,
+            "againReviewImgList": [],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 3,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 600645473,
+            "content": "感觉还行吧，刚到手，觉得50倍拍照模糊，坐等***杆",
+            "publishTime": "2019-04-13 17:10:29",
+            "publishTimeStr": "2019-04-13 17:10:29",
+            "deviceType": 6,
+            "sourceSystem": "ios",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "1***3",
+                "levelId": "161000000110",
+                "levelName": "V1",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_27_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 26,
+            "picVideInfo": {
+                "imgCount": 4,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155514658265887751",
+                        "coverFlag": false,
+                        "ordershowId": 55758894
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155514658287877627",
+                        "coverFlag": false,
+                        "ordershowId": 55758894
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155514658308893780",
+                        "coverFlag": false,
+                        "ordershowId": 55758894
+                    },
+                    {
+                        "imgSeq": 4,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155514658345034758",
+                        "coverFlag": false,
+                        "ordershowId": 55758894
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1005901,
+                "commodityReviewId": 600645473,
+                "againContent": "流畅度很好，目前感觉就是50倍抖得厉害，应该要有三脚架",
+                "publishTime": "2019-04-14 00:10:09",
+                "publishTimeStr": "1天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155517176026684681"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155517177789529125"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 4,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": -1,
+            "commodityReviewId": 601031104,
+            "content": "手机收到了，昨天下的单，今天早上就拿到了，快递很给力。快递小哥直接当面叫验货，服务到位。",
+            "publishTime": "2019-04-16 14:47:38",
+            "publishTimeStr": "2019-04-16 14:47:38",
+            "deviceType": 5,
+            "sourceSystem": "android",
+            "anonFlag": false,
+            "userInfo": {
+                "nickName": "1***9",
+                "levelId": "161000000130",
+                "levelName": "V3",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_26_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 44,
+            "picVideInfo": {
+                "imgCount": 5,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155539703637379574",
+                        "coverFlag": false,
+                        "ordershowId": 55857700
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155539703665771772",
+                        "coverFlag": false,
+                        "ordershowId": 55857700
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155539710082692843",
+                        "coverFlag": false,
+                        "ordershowId": 55857700
+                    },
+                    {
+                        "imgSeq": 4,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155539720439853924",
+                        "coverFlag": false,
+                        "ordershowId": 55857700
+                    },
+                    {
+                        "imgSeq": 5,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155539725200913260",
+                        "coverFlag": false,
+                        "ordershowId": 55857700
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [
+                {
+                    "labelName": "功能齐全"
+                },
+                {
+                    "labelName": "拍照效果好"
+                },
+                {
+                    "labelName": "系统流畅"
+                },
+                {
+                    "labelName": "反应快"
+                }
+            ],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1026277,
+                "commodityReviewId": 601031104,
+                "againContent": "贴膜无法粘贴在手机上。",
+                "publishTime": "2019-04-17 22:29:40",
+                "publishTimeStr": "1天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155551135720053284"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 5,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 685072903,
+            "content": "这手机太黑了啇家，听歌都要钱干什么都要钱见过钱没。",
+            "publishTime": "2019-11-22 08:06:33",
+            "publishTimeStr": "2019-11-22 08:06:33",
+            "deviceType": 5,
+            "sourceSystem": "android",
+            "anonFlag": false,
+            "userInfo": {
+                "nickName": "1***9",
+                "levelId": "161000000120",
+                "levelName": "V2",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_31_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 3,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": false,
+            "contentLength": 25,
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "华为/HUAWEI P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 2473484,
+                "commodityReviewId": 685072903,
+                "againContent": "这手机电池挺耐用的，不错不错，挺好",
+                "publishTime": "2019-11-22 22:56:38",
+                "publishTimeStr": "当天追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": false,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": false,
+            "againReviewImgList": [],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 0,
+            "canUploadImg": true,
+            "ordinaryContent": "这手机太黑了啇家，听歌都要钱干什么都要钱见过钱没。",
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 603017183,
+            "content": "用了一段时间，耗电有点快",
+            "publishTime": "2019-04-29 16:44:02",
+            "publishTimeStr": "2019-04-29 16:44:02",
+            "deviceType": 5,
+            "sourceSystem": "android",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "1***5",
+                "levelId": "161000000130",
+                "levelName": "V3",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_25_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 1,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": false,
+            "contentLength": 12,
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1149128,
+                "commodityReviewId": 603017183,
+                "againContent": "现在苏宁易购网上售后不错。就是线下还不行，线下的价格都不同步平台。以前都是同步价格，这点真搞不懂。坐标，汕头苏宁易购。线下服务不好。即使线下门店需要各种费用，但开门店就是为了体验产品，增加流量。线上线下价格现在不同步就有点不好。当然，有时线下的价格还比线上有便宜的时候",
+                "publishTime": "2019-05-08 12:00:52",
+                "publishTimeStr": "9天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "replyInfo": {
+                "replyId": 40472409,
+                "commodityReviewId": 603017183,
+                "replyContent": "关于您反映的问题我司已收到，产品使用未能让您满意，我司一定会向厂家反馈不断优化改善商品的设计及出厂，后期如您有任何问题可在联系我司！",
+                "replyUserType": 2,
+                "parentNickName": "136*****05",
+                "parentUserType": 1,
+                "replyUserNickName": "苏宁自营",
+                "replyTime": "2019-05-08 11:53:59"
+            },
+            "isShowReviewDetail": false,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": false,
+            "againReviewImgList": [],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 0,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": -1,
+            "commodityReviewId": 600559557,
+            "content": "看完发布会迫不及待的就买了，交了尾款没想到这么快就到了，机子很漂亮，拍照效果一流",
+            "publishTime": "2019-04-13 00:01:02",
+            "publishTimeStr": "2019-04-13 00:01:02",
+            "deviceType": 5,
+            "sourceSystem": "android",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "1***3",
+                "levelId": "161000000110",
+                "levelName": "V1",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_33_60x60.jpg",
+                "isVip": false
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 40,
+            "picVideInfo": {
+                "imgCount": 3,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155508480789342715",
+                        "coverFlag": false,
+                        "ordershowId": 55736752
+                    },
+                    {
+                        "imgSeq": 2,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155508480796566911",
+                        "coverFlag": false,
+                        "ordershowId": 55736752
+                    },
+                    {
+                        "imgSeq": 3,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155508480810328486",
+                        "coverFlag": false,
+                        "ordershowId": 55736752
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [
+                {
+                    "labelName": "外观漂亮"
+                },
+                {
+                    "labelName": "屏幕清晰"
+                },
+                {
+                    "labelName": "系统流畅"
+                },
+                {
+                    "labelName": "拍照效果好"
+                }
+            ],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1005990,
+                "commodityReviewId": 600559557,
+                "againContent": "很喜欢特效里面的流光，就是图二的效果，就是手总抖，希望送的杆子到了能拍出梦幻的照片",
+                "publishTime": "2019-04-14 01:05:32",
+                "publishTimeStr": "1天后追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155517499790826566"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155517499764833882"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 3,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        },
+        {
+            "bestTag": 0,
+            "commodityReviewId": 600907209,
+            "content": "手机很漂亮，手感舒适，反应灵敏，试拍效果很好。",
+            "publishTime": "2019-04-15 16:31:44",
+            "publishTimeStr": "2019-04-15 16:31:44",
+            "deviceType": 1,
+            "sourceSystem": "PC评价",
+            "anonFlag": true,
+            "userInfo": {
+                "nickName": "1***0",
+                "levelId": "161000000120",
+                "levelName": "V2",
+                "imgUrl": "//image.suning.cn/uimg/cmf/cust_headpic/0000000000_29_60x60.jpg",
+                "isVip": true
+            },
+            "qualityStar": 5,
+            "bestFlag": false,
+            "shopInfo": {
+                "shopId": "0000000000",
+                "shopName": "苏宁自营",
+                "shopType": "1"
+            },
+            "picVideoFlag": true,
+            "contentLength": 23,
+            "picVideInfo": {
+                "imgCount": 1,
+                "imageInfo": [
+                    {
+                        "imgSeq": 1,
+                        "url": "//image.suning.cn/uimg/ZR/share_order/155531702640620013",
+                        "coverFlag": false,
+                        "ordershowId": 55825871
+                    }
+                ]
+            },
+            "commodityInfo": {
+                "commodityCode": "000000010973073658",
+                "commodityName": "HUAWEI/华为P30 Pro 亮黑色 8GB+128GB 超感光四摄 未来影像 移动联通电信4G全面屏全网通手机",
+                "buyCatalogId": "R1901001",
+                "charaterId1": "版本",
+                "charaterDesc1": "8GB+128GB",
+                "charaterId2": "颜色",
+                "charaterDesc2": "亮黑色"
+            },
+            "againFlag": true,
+            "individualObject": [],
+            "labelNames": [
+                {
+                    "labelName": "屏幕清晰"
+                },
+                {
+                    "labelName": "系统流畅"
+                },
+                {
+                    "labelName": "信号稳定"
+                }
+            ],
+            "score": 0.0,
+            "againReview": {
+                "againId": 1013967,
+                "commodityReviewId": 600907209,
+                "againContent": "因刚知道是要求传三张图，现补上。字数现也达到30个字以上了。",
+                "publishTime": "2019-04-15 17:27:31",
+                "publishTimeStr": "当天追加",
+                "againPicFlag": 0
+            },
+            "usefulCnt": 0,
+            "replyCnt": 0,
+            "replyFlag": false,
+            "isShowReviewDetail": true,
+            "styleId": "",
+            "groupId": "30357465",
+            "againReviewImgFlag": true,
+            "againReviewImgList": [
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155532017617224126"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155532019088253023"
+                },
+                {
+                    "imgId": "//image.suning.cn/uimg/ZR/share_order/155532040849545465"
+                }
+            ],
+            "voiceFlag": false,
+            "smallVideoFlag": false,
+            "imgCnt": 1,
+            "canUploadImg": true,
+            "returnCode": "1",
+            "returnMsg": ""
+        }
+    ],
+    "returnCode": "1",
+    "returnMsg": "成功取得评价列表",
+    "reCloudDrill": 0
+}
